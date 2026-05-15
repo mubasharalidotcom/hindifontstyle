@@ -81,6 +81,7 @@ export default function Layout({
         {keywords && <meta name="keywords" content={keywords} />}
         <meta name="author" content="Hindi Font Style" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google-site-verification" content="XJH8r9UVuMH4boY8BXr4qquuHEWhKBvLx18ck2lVt08" />
         <meta name="theme-color" content="#FF9933" />
         {canonical && <link rel="canonical" href={canonical} />}
 
