@@ -3,8 +3,8 @@ import Layout from '../components/Layout';
 export default function Page() {
   return (
     <Layout
-      title="200+ Stylish Hindi Fonts – Free Live Generator & Download"
-      description="Create 100+ stylish Hindi fonts free. Live Hindi font style generator with copy, PNG, Transparent PNG & TTF download. Works on mobile & PC."
+      title="💖 india's No 1 Hindi Font Style Generator - Free Online Tool ✓"
+      description="Create 100+ stylish Hindi fonts free. Live Hindi font style generator with copy paste, PNG, Transparent PNG & TTF download. Works on mobile & PC."
       keywords="hindi font style, hindi font generator, stylish hindi font, fonts in hindi"
       canonical="https://hindifontstyle.site/"
       ogImage="https://hindifontstyle.site/assets/images/hero-home.webp"
